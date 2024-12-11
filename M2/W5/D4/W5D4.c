@@ -18,7 +18,7 @@ areatriangolo = (sqrt(3)/(4)*(valore*valore));
 
 printf ("Le aree con il valore %d inserito\n", valore);
 printf ("Area del quadrato: %d\n", areaquadrato);
-printf ("Area del cerchio: %f\n", areacerchio);
+printf ("Area del cerchio: %.2f\n", areacerchio);
 printf ("Area del triangolo: %f\n", areatriangolo);
 
 }
