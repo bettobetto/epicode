@@ -1,0 +1,2 @@
+# Nmap 7.94SVN scan initiated Wed Mar 19 22:10:02 2025 as: nmap -sV -o fireon.txt 192.168.50.200
+# Nmap done at Wed Mar 19 22:10:05 2025 -- 1 IP address (0 hosts up) scanned in 3.15 seconds
